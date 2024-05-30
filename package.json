@@ -7,7 +7,7 @@
     "async": "0.1.x",
     "flatiron": "0.3.0",
     "highlight.js": "7.3.0",
-    "marked": "0.2.x",
+    "marked": "12.0.x",
     "mkdirp": "0.0.x",
     "plates": "0.4.x",
     "timespan": "2.2.x"
